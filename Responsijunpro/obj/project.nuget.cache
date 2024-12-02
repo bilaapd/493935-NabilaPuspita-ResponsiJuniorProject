@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "92ds3pMOg12noe1aduFEWvsBcOQFLjAXWcy1Fyc/8YgpSTW8OXq25YbhmqQCrxGY50CPK/MFTpeQJjw7do8gYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Responsijunpro\\Responsijunpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
